@@ -1,0 +1,2 @@
+**
+GtkSourceView:ERROR:gtksourcecontextengine.c:5421:update_syntax: assertion failed: (state->context != NULL)

@@ -1,0 +1,32 @@
+The United States is in no short supply of data. Thanks to massive  document conversion efforts and widespread possession of smartphones, this country is  swimming in a incomprensible river of untapped knowledge.  
+
+IBM's website says  we create 2.5 quintrillion bytes of data each day, and that 90% of all existing data was created in the last two years. That sounds exponential. But what exactly is it?
+
+If you were to ask a software engineer, he or she would tell you that big data is really just two things: files and processes. The files contain diverse information sets ranging from patio installations to cardiovascular operations, and the processes are mathematical algorithems and programs designed to sift through the files in search of correlations.
+
+The files come from everywhere. It is mind-boggling to contemplate the sheer quantity of electronic medical records (EMRs) being aggregated as the nation experiences a large-scale overhaul of the health care system.  These records document treatments, research results, and clinical trials, and have been intensely digitized over the past 10 years. Decades of information consolidated into various virtual warehouses. 
+
+Phase one data, vast stores of information as described above, are of an extremely messy nature. They are fraught with mispellings and misconstruencies, but have remarkable potential, especially in the contentuous realm of healthcare. 
+
+A report published by McKinsey & Company earlier this year accurately describes big data's potential to change healthcare. The benefits of big data are infinite; imagine pooling information sets to determine patient rates of gluten allergies in various subpopulations, and then mining the data to see which treatments work and which treatments don't. Big data's greatest role in health care overhaul will be the minimization of uncertainty, which permit more analytical power in real time decision making.  
+
+Immerse yourself in as much information as possible, the theory goes, and patters will surface that act as signals, increasing an agent's precision when predicting how events will happen in relation to each other. While the report mentions ways in which government agencies can incentivize big data's integration in the healthcare system, if fails to recognize the importance of regional collaboration and how governments can catalyze the process. 
+
+Phase two of big data, quantifying environmental realities into sets of data and sharing that data with agents, is contingent on both government sponsorship and munipal participation. Health Information Exchanges (HIE) are viable ways to transorm the healthcare system through a drastic increases in operation efficiency and reductions in cost. Look to the San Diego Beacon HIE as a model platform for regional big data exchange. 
+
+San Diego is more than just a surftown with too many zoos. The region is world renowened for its biotechnology industry and health care system, with Scripps Health and Sharpe HealthCare leading the way. 
+
+The San Diego Beacon Health Information Exchange is a government funded partnership between healthcare providers, emergency services, and research institutions which allows providers to access critical information from various facilities in the region. Partnering with the University of California program links hospitals and healthcare professionals with the latest in bioinformatic research.
+
+When a patient is seen for diagnostic or treatment purposes, the provider  accesses his electronic medical record, which queries the health information exchange for outside records. If found, those records come streaming through an information pipeline unitl emerging from a portal and displaying on the computer screen. San Diego's HIE consists of four hospital health systems and two medical groups, which includes over 175,000 patients whose records could be accessed by over 2,5000 providers.
+
+Systems such as these are having immediate results. Doctors are able to save lives that they werne't able to before, because they are able to respond quicker and with more effectiveness. More information, more informed decisions about treatments, which reduces cost-heavy redundencies and increases patient surplus. 
+
+Sucessful implentation of big data will have a big effect on United States healthcare. Governments must be there to incentivize its private market development through offering subsidies or redeemable tax credits for organizations that adopt information sharing programs. 
+
+Phase two data is also exposing other potential, more unexpected, sources of informations. Mechanical engineering Professor Shigeomi Koshimizu and his team of researchers at Advanced Institute of Industrial Technology have figured ways to quantify something as subjective as the way an individual holds themself. Ultra-sensitive materials are able to map all angles, contours, and weight distributions of a person's body shape and data-map it, creating a unique identifier that is able to differentiate between the shapes of two different people. 
+
+Imagine peering through a data set to find relationships between certain body postures and back pain. Doctors could make comparisons between the position that patients are kept in the emergency room and how their body copes with the treatments they are given. 
+
+San Diego's regional health system is already benefiting from the nascent HIE program. Lots of extra healthcare costs derive from redundencies in treament. Acardiac catheretization lab activation, for example, costs roughly $15,000 per operation, not necessarily a fee you want to take lightly. Big data analysis is reducing readmissions and redundencies in operations,  inappropriate cardiac lab activations have decreased by 84% since the program's immplenetation in 2011.  That could mean signifcant overall reductions if programs such as this were promoted in various United States cities.  
+
